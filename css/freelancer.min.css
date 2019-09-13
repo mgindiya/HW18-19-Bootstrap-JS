@@ -1,6 +1,4 @@
 .masthead .masthead-avatar {
-    width: 250px;
-    height: 250px;
     border-radius: 70%;
     box-shadow: 0 5px 15px 0px rgba(0, 0, 0, .6);
     animation: float 3s ease-in-out infinite;
